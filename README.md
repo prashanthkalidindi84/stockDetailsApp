@@ -1,0 +1,2 @@
+# stockDetailsApp
+stockDetailsApp
